@@ -1,0 +1,48 @@
+div {
+    position: relative;
+}
+
+h1 {position: relative;
+    color: white;
+    top: 0;
+    font-size: 10px;
+    margin: 5%;
+    border: 5%;
+    padding: 30px 40px;
+}
+
+h2 {
+    position: relative;
+    text-align: right;
+    color: white;
+    top: 0;
+    font-size: 10px;
+
+    
+    
+    }
+
+    body {
+        background: url(vin.jpg);
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        font-style: normal;
+        font-size: 10px;   
+        line-height: 1.2;
+        font-weight: normal;
+    padding: 55px 40px;
+
+}
+
+hr {
+    border: 1px;
+}
+
+
+.container {
+        padding: 5px 5px;
+        color: white;
+        width: 20px;
+        height: 20px;
+        text-align: right;
+
+  }
